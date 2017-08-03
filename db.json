@@ -1,6 +1,5 @@
 {
-    "usuarios": 
-    [
+    "usuarios": [
         {
             "id": 1,
             "nome": "Teste 1",
