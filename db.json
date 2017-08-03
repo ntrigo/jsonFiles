@@ -1,12 +1,15 @@
-[
-    {
-        "id": 1,
-        "nome": "Teste 1",
-        "descricao": "testando 1"
-    },
-    {
-        "id": 2,
-        "nome": "Teste 2",
-        "descricao": "testando 2"
-    }
-]
+{
+    "usuarios": 
+    [
+        {
+            "id": 1,
+            "nome": "Teste 1",
+            "descricao": "testando 1"
+        },
+        {
+            "id": 2,
+            "nome": "Teste 2",
+            "descricao": "testando 2"
+        }
+    ]
+}
